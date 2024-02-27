@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "/usr/share/openjfx/lib"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.debug.settings.onBuildFailureProceed": true
+}
